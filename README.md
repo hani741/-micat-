@@ -3,7 +3,7 @@
 <hr>
 👉 闪电猫官网地址：
 
-<a href="https://zsfcn.top">访问 LightnCAT 迅捷猫官网入口</a>
+<a href="https://test.zhongshfei.top">访问 LightnCAT 迅捷猫官网入口</a>
 
 打不开怎么办（建议顺序）：
 
