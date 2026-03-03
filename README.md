@@ -3,7 +3,7 @@
 <hr>
 👉 迷途猫官网地址：
 
-<a href="https://cesu.zsfcn.top">访问 micat 迷途猫官网入口</a>
+<a href="https://micatapp.top">访问 micat 迷途猫官网入口</a>
 
 打不开怎么办（建议顺序）：
 
@@ -137,7 +137,7 @@ OpenWrt / 软路由 / 路由器：支持订阅或手动配置
 
 ### 五、订阅获取与导入（通用流程示例）
 
-<a href="https://cesu.zsfcn.top">访问 micat 迷途猫官网入口</a>
+<a href="https://micatapp.top">访问 micat 迷途猫官网入口</a>
 
 出于安全与合规考虑，本文档中 不直接展示官网域名，
 请通过官方公告渠道获取最新地址。
