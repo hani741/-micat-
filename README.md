@@ -3,7 +3,7 @@
 <hr>
 👉 迷途猫官网地址：
 
-<a href="https://app.micatapp.top">访问 micat 迷途猫官网入口</a>
+<a href="https://zsfcn.top/">访问 micat 迷途猫官网入口</a>
 
 打不开怎么办（建议顺序）：
 
